@@ -4,7 +4,7 @@ When this article is done (2020-07-13), there are 17 LeetCode problems about [Tr
 
 Here we summarize four of them. Once you figure them out, `Trie` should not be a challenge to you anymore. Hope this article is helpful to you.
 
-The main interface of a trie should include the following:
+The hello interface of a trie should include the following:
 
 - `insert(word)`: Insert a word
 - `search(word)`: Search for a word

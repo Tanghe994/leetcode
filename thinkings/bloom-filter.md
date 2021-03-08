@@ -80,7 +80,7 @@ public   class  MyBloomFilter {
      private  BitSet  bits = new BitSet(DEFAULT_SIZE);
      private  SimpleHash[] func  = new  SimpleHash[seeds.length];
 
-     public   static   void  main(String[] args) {
+     public   static   void  hello(String[] args) {
         //使用
         String value = "www.xxxxx.com" ;
         MyBloomFilter filter = new MyBloomFilter();
