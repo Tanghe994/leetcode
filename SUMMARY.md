@@ -213,6 +213,7 @@
   - [1020. 飞地的数量](./problems/1020.number-of-enclaves.md)
   - [1023. 驼峰式匹配](./problems/1023.camelcase-matching.md)
   - [1031. 两个非重叠子数组的最大和](./problems/1031.maximum-sum-of-two-non-overlapping-subarrays.md)
+  - [1043. 分隔数组以得到最大和](./problems/1043.partition-array-for-maximum-sum.md) 🆕
   - [1104. 二叉树寻路](./problems/1104.path-in-zigzag-labelled-binary-tree.md)
   - [1131.绝对值表达式的最大值](./problems/1131.maximum-of-absolute-value-expression.md)
   - [1186. 删除一次得到子数组最大和](./problems/1186.maximum-subarray-sum-with-one-deletion.md)
@@ -237,6 +238,9 @@
 
   - [LCP 20. 快速公交](./problems/lcp20.meChtZ.md) 🆕
   - [Number Stream to Intervals](./problems/Number-Stream-to-Intervals.md) 🆕
+  - [Triple-Inversion](./problems/Triple-Inversion.md) 91
+  - [Kth-Pair-Distance](./problems/Kth-Pair-Distance.md) 91
+  - [Minimum-Light-Radius](./problems/Minimum-Light-Radius.md) 91
   - [0004. 寻找两个正序数组的中位数](./problems/4.median-of-two-sorted-arrays.md)
   - [0023. 合并 K 个升序链表](./problems/23.merge-k-sorted-lists.md)
   - [0025. K 个一组翻转链表](./problems/25.reverse-nodes-in-k-groups.md)
@@ -251,6 +255,7 @@
   - [0128. 最长连续序列](./problems/128.longest-consecutive-sequence.md)
   - [0140. 单词拆分 II](problems/140.word-break-ii.md)
   - [0145. 二叉树的后序遍历](./problems/145.binary-tree-postorder-traversal.md)
+  - [0146. LRU 缓存机制](./problems/146.lru-cache.md)
   - [0212. 单词搜索 II](./problems/212.word-search-ii.md)
   - [0239. 滑动窗口最大值](./problems/239.sliding-window-maximum.md)
   - [0295. 数据流的中位数](./problems/295.find-median-from-data-stream.md)

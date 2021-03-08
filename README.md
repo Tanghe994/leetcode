@@ -31,41 +31,13 @@
 
 > epub 还是有动图的
 
-由于是电子书，因此阅读体验可能会更好， 但是相应地就不能获得及时的更新，因此你可以收藏一下我的同步电子书的网站 [西法的刷题秘籍 - 在线版](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/)。后期可能将每日一题， 91 天学算法其他章节的讲义等也整理进来。
+## 春招冲冲冲
 
-电子书有更新我也会在公众号《力扣加加》进行通知， 感兴趣的同学可以关注一下。
+春招已经开始了。你是不是已经开始准备了呢？为了帮助大家获得更好的 offer，lucifer 开辟了「春招冲冲冲」栏目。
 
-个人建议大家从**在线版，pdf 和 mobi** 选择适合自己的格式下载即可。pdf，mobi 和 epub 格式，关注我的公众号《力扣加加》回复`电子书`即可。
+第一期我们的猎物是「虾皮」。来看看虾皮的算法题难度几何吧！
 
-## :computer: 插件
-
-或许是一个可以改变你刷题效率的浏览器扩展插件。
-
-- 总结题型以及思路。
-- 内置各种常见刷题模板。
-- 更方便地看仓库题解，甚至可以基于公司筛选
-- 一键复制测试用例
-- 上班刷题必备的“摸鱼模式”
-- 等等
-
-插件地址：https://chrome.google.com/webstore/detail/leetcode-cheatsheet/fniccleejlofifaakbgppmbbcdfjonle?hl=en-US。
-
-不能访问谷歌商店的朋友可以去我的公众号回复插件获取离线版。
-
-> 强烈推荐大家使用谷歌商店安装， 这样如果有更新可以自动安装，毕竟咱们的插件更新还是蛮快的。
-
-## :exclamation:怎么刷 LeetCode？
-
-- [我是如何刷 LeetCode 的](https://www.zhihu.com/question/280279208/answer/824585814)
-- [算法小白如何高效、快速刷 leetcode？](https://www.zhihu.com/question/321738058/answer/1279464192)
-- [刷题效率低？或许你就差这么一个插件](https://lucifer.ren/blog/2020/06/06/algo-chrome-extension/)
-- [力扣刷题插件](https://lucifer.ren/blog/2020/08/16/leetcode-cheat/)
-
-## :calendar:《91 天学算法》限时活动
-
-- [第一期讲义-二分法](./91/binary-search.md)
-- [第一期讲义-双指针](./91/two-pointers.md)
-- [第三期正在火热进行中](https://lucifer.ren/blog/2021/01/19/91-algo-3/)
+- [春招冲冲冲](https://mp.weixin.qq.com/s?__biz=MzI4MzUxNjI3OA==&mid=2247487632&idx=1&sn=830fe267d835e5acbfc417787f85f1c1&chksm=eb88dc89dcff559f49913c0f2dec77b1d06c2ddbe2c6c299b32b3e49c2efaf8b11ac0aedce8f&token=1676518002&lang=zh_CN#rd)
 
 ## :information_desk_person:订阅公众号
 
@@ -73,9 +45,7 @@
 
 <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gfcuzagjalj30p00dwabs.jpg" width="100%">
 
-## :newspaper: &nbsp; RSS
-
-大家可以用 Github 提供的 [RSS](https://github.com/azl397985856/leetcode/commits.atom) 来订阅我的仓库更新。
+大家也可以用 Github 提供的 [RSS](https://github.com/azl397985856/leetcode/commits.atom) 来订阅我的仓库更新。
 
 ## 图片加载不出来如何解决？
 
@@ -353,6 +323,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [1020. 飞地的数量](./problems/1020.number-of-enclaves.md)
 - [1023. 驼峰式匹配](./problems/1023.camelcase-matching.md)
 - [1031. 两个非重叠子数组的最大和](./problems/1031.maximum-sum-of-two-non-overlapping-subarrays.md)
+- [1043. 分隔数组以得到最大和](./problems/1043.partition-array-for-maximum-sum.md) 🆕
 - [1104. 二叉树寻路](./problems/1104.path-in-zigzag-labelled-binary-tree.md)
 - [1131.绝对值表达式的最大值](./problems/1131.maximum-of-absolute-value-expression.md)
 - [1186. 删除一次得到子数组最大和](./problems/1186.maximum-subarray-sum-with-one-deletion.md)
@@ -401,6 +372,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 - [LCP 20. 快速公交](./problems/lcp20.meChtZ.md) 🆕
 - [Number Stream to Intervals](./problems/Number-Stream-to-Intervals.md) 🆕
+- [Triple-Inversion](./problems/Triple-Inversion.md) 91
+- [Kth-Pair-Distance](./problems/Kth-Pair-Distance.md) 91
+- [Minimum-Light-Radius](./problems/Minimum-Light-Radius.md) 91
 
 - [0004. 寻找两个正序数组的中位数](./problems/4.median-of-two-sorted-arrays.md)
 - [0023. 合并 K 个升序链表](./problems/23.merge-k-sorted-lists.md)
@@ -416,6 +390,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0128. 最长连续序列](./problems/128.longest-consecutive-sequence.md)
 - [0140. 单词拆分 II](problems/140.word-break-ii.md)
 - [0145. 二叉树的后序遍历](./problems/145.binary-tree-postorder-traversal.md)
+- [0146. LRU 缓存机制](./problems/146.lru-cache.md)
 - [0212. 单词搜索 II](./problems/212.word-search-ii.md)
 - [0239. 滑动窗口最大值](./problems/239.sliding-window-maximum.md)
 - [0295. 数据流的中位数](./problems/295.find-median-from-data-stream.md)
@@ -453,6 +428,28 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [1671. 得到山形数组的最少删除次数](./problems/1671.minimum-number-of-removals-to-make-mountain-array.md)
 - [1707. 与数组中元素的最大异或值](./problems/5640.maximum-xor-with-an-element-from-array.md)
 
+## :computer: 插件
+
+或许是一个可以改变你刷题效率的浏览器扩展插件。
+
+插件地址：https://chrome.google.com/webstore/detail/leetcode-cheatsheet/fniccleejlofifaakbgppmbbcdfjonle?hl=en-US。
+
+> 不能访问谷歌商店的朋友可以去我的公众号回复插件获取离线版。强烈推荐大家使用谷歌商店安装， 这样如果有更新可以自动安装，毕竟咱们的插件更新还是蛮快的。
+
+## :exclamation:怎么刷 LeetCode？
+
+- [我是如何刷 LeetCode 的](https://www.zhihu.com/question/280279208/answer/824585814)
+- [算法小白如何高效、快速刷 leetcode？](https://www.zhihu.com/question/321738058/answer/1279464192)
+- [刷题效率低？或许你就差这么一个插件](https://lucifer.ren/blog/2020/06/06/algo-chrome-extension/)
+- [力扣刷题插件](https://lucifer.ren/blog/2020/08/16/leetcode-cheat/)
+
+## :calendar:《91 天学算法》限时活动
+
+- [91 天学算法第三期视频会议总结](https://lucifer.ren/blog/2021/03/01/91meeting-season-3-1/)
+- [第一期讲义-二分法](./91/binary-search.md)
+- [第一期讲义-双指针](./91/two-pointers.md)
+- [第三期正在火热进行中](https://lucifer.ren/blog/2021/01/19/91-algo-3/)
+
 ## :trident: &nbsp;anki 卡片
 
 Anki 主要分为两个部分：一部分是关键点到题目的映射，另一部分是题目到思路，关键点，代码的映射。
@@ -477,26 +474,6 @@ anki - 文件 - 导入 - 下拉格式选择“打包的 anki 集合”，然后�
 
 > 已加入的题目有：#2 #3 #11
 
-## :honeybee: &nbsp;每日一题
-
-每日一题是在交流群（包括微信和 qq）里通过 issues 来进行的一种活动，大家一起 解一道题，这样讨论问题更加集中，会得到更多的反馈。而且 这些题目可以被记录下来，日后会进行筛选添加到仓库的题解模块。
-
-- [每日一题汇总](./daily/)
-
-* [每日一题认领区](https://github.com/azl397985856/leetcode/projects/1)
-
-## :ballot_box_with_check: &nbsp;计划
-
-- LeetCode 换皮题目集锦
-
-- 动态规划完善。最长递增子序列，最长回文子序列，编辑距离等“字符串”题目， 扔鸡蛋问题。 解题模板，滚动数组。
-
-- 堆可以解决的题目。 手写堆
-
-- 树
-
-- BFS & DFS
-
 ## :chart_with_upwards_trend:大事件
 
 - 2019-07-10 ：[纪念项目 Star 突破 1W 的一个短文](./thanksGiving.md)， 记录了项目的"兴起"之路，大家有兴趣可以看一下，如果对这个项目感兴趣，请**点击一下 Star**， 项目会**持续更新**，感谢大家的支持。
@@ -507,6 +484,8 @@ anki - 文件 - 导入 - 下拉格式选择“打包的 anki 集合”，然后�
 - 2020-04-14: 官网`力扣加加`上线啦 💐💐💐💐💐，有专题讲解，每日一题，下载区和视频题解，后续会增加更多内容，还不赶紧收藏起来？地址：http://leetcode-solution.cn/
 
 ![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluemaoj3j30z90dtmy5.jpg)
+
+- 2021-02-23: star 破四万
 
 ## :gift_heart: 贡献
 
