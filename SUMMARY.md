@@ -84,6 +84,7 @@
   - [401. 二进制手表](problems/401.binary-watch.md)
   - [0437. 路径总和 III](problems/437.path-sum-iii.md)
   - [0455. 分发饼干](problems/455.AssignCookies.md)
+  - [0504. 七进制数](./problems/504.base-7.md) 🆕
   - [0575. 分糖果](problems/575.distribute-candies.md)
   - [0665. 非递减数列](./problems/665.non-decreasing-array.md) 🆕
   - [821. 字符的最短距离](problems/821.shortest-distance-to-a-character.md) 91
@@ -151,6 +152,7 @@
   - [0209. 长度最小的子数组](./problems/209.minimum-size-subarray-sum.md)
   - [0211. 添加与搜索单词 \* 数据结构设计](./problems/211.add-and-search-word-data-structure-design.md)
   - [0215. 数组中的第 K 个最大元素](./problems/215.kth-largest-element-in-an-array.md)
+  - [0220. 存在重复元素 III](./problems/220.contains-duplicate-iii.md) 🆕
   - [0221. 最大正方形](./problems/221.maximal-square.md)
   - [0227. 基本计算器 II](./problems/227.basic-calculator-ii.md)🆕
   - [0229. 求众数 II](./problems/229.majority-element-ii.md)
@@ -253,6 +255,7 @@
   - [0085. 最大矩形](./problems/85.maximal-rectangle.md)
   - [0124. 二叉树中的最大路径和](./problems/124.binary-tree-maximum-path-sum.md)
   - [0128. 最长连续序列](./problems/128.longest-consecutive-sequence.md)
+  - [0132. 分割回文串 II](./problems/132.palindrome-partitioning-ii.md) 👍
   - [0140. 单词拆分 II](problems/140.word-break-ii.md)
   - [0145. 二叉树的后序遍历](./problems/145.binary-tree-postorder-traversal.md)
   - [0146. LRU 缓存机制](./problems/146.lru-cache.md)
