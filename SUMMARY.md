@@ -30,9 +30,10 @@
 
 - [第二章 - 91 天学算法](91/README.md)
 
-  - [第一期讲义-二分法](91/binary-search.md)
-  - [第一期讲义-双指针](91/two-pointers.md)
-  - [第二期](91/season2.md)
+  - [91 天学算法第三期视频会议总结](https://lucifer.ren/blog/2021/03/01/91meeting-season-3-1/)
+  - [第一期讲义-二分法](./91/binary-search.md)
+  - [第一期讲义-双指针](./91/two-pointers.md)
+  - [第三期正在火热进行中](https://lucifer.ren/blog/2021/01/19/91-algo-3/)
 
 - [第三章 - 精选题解](selected/README.md)
 
@@ -184,8 +185,9 @@
   - [0560. 和为 K 的子数组](./problems/560.subarray-sum-equals-k.md)
   - [0609. 在系统中查找重复文件](./problems/609.find-duplicate-file-in-system.md)
   - [0611. 有效三角形的个数](./problems/611.valid-triangle-number.md)
-  - [0673. 最长递增子序列的个数](./problems/673.number-of-longest-increasing-subsequence.md) 🆕
-  - [0686. 重复叠加字符串匹配](./problems/686.repeated-string-match.md) 🆕
+  - [0673. 最长递增子序列的个数](./problems/673.number-of-longest-increasing-subsequence.md)
+  - [0686. 重复叠加字符串匹配](./problems/686.repeated-string-match.md)
+  - [0714. 买卖股票的最佳时机含手续费](./problems/714.best-time-to-buy-and-sell-stock-with-transaction-fee.md) 🆕
   - [0718. 最长重复子数组](./problems/718.maximum-length-of-repeated-subarray.md)
   - [0754. 到达终点数字](./problems/754.reach-a-number.md)
   - [0785. 判断二分图](./problems/785.is-graph-bipartite.md)
