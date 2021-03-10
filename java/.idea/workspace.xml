@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a23ca927-4120-4cd1-bb42-cb0db4f9527b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../go_leetcode/ stack/stack.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_leetcode/Dynamic_programming/Dynamic_programming.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_leetcode/link/link.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_leetcode/png/link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_leetcode/string/string.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/Dynamic_programming/getBestGoldMining.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/link/link_isCycle$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/link/link_isCycle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/sort/getMaxSortDistance$Bucket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/sort/getMaxSortDistance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/stack/stack_min.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Dynamic_programming/getBestGoldMining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/link/link_isCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/sort/getMaxSortDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/stack/stack_min.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/string/removeDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go_leetcode/ stack/calculate.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,17 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.getBestGoldMining" />
@@ -164,6 +131,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
