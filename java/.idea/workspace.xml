@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a23ca927-4120-4cd1-bb42-cb0db4f9527b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../go_leetcode/ stack/calculate.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/stack/calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go_leetcode/ stack/calculate.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go_leetcode/ stack/calculate.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +37,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -97,6 +99,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.getBestGoldMining" />
@@ -115,6 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615270912992</updated>
       <workItem from="1615270914257" duration="13348000" />
+      <workItem from="1615434497952" duration="3049000" />
     </task>
     <servers />
   </component>
