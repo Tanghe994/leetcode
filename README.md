@@ -31,9 +31,11 @@
 
 > epub 还是有动图的
 
-## 春招冲冲冲
+## 刷题群
 
-春招已经开始了。你是不是已经开始准备了呢？为了帮助大家获得更好的 offer，lucifer 开辟了「春招冲冲冲」栏目。
+组队刷题活动，关注公众号《力扣加加》回复 leetcode 即可获取进群方式，从此刷题不再孤单。
+
+另外春招已经开始了。你是不是已经开始准备了呢？为了帮助大家获得更好的 offer，lucifer 开辟了「春招冲冲冲」栏目。
 
 第一期我们的猎物是「虾皮」。来看看虾皮的算法题难度几何吧！
 
@@ -308,6 +310,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0309. 最佳买卖股票时机含冷冻期](./problems/309.best-time-to-buy-and-sell-stock-with-cooldown.md)
 - [0322. 零钱兑换](./problems/322.coin-change.md) 👍
 - [0328. 奇偶链表](./problems/328.odd-even-linked-list.md)
+- [0331. 验证二叉树的前序序列化](./problems/328.odd-even-linked-list.md) 🆕
 - [0334. 递增的三元子序列](./problems/334.increasing-triplet-subsequence.md)
 - [0337. 打家劫舍 III](./problems/337.house-robber-iii.md)
 - [0343. 整数拆分](./problems/343.integer-break.md)
@@ -365,7 +368,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [1131.绝对值表达式的最大值](./problems/1131.maximum-of-absolute-value-expression.md)
 - [1186. 删除一次得到子数组最大和](./problems/1186.maximum-subarray-sum-with-one-deletion.md)
 - [1218. 最长定差子序列](./problems/1218.longest-arithmetic-subsequence-of-given-difference.md)
-- [1227. 飞机座位分配概率](./problems/1227.airplane-seat-assignment-probability.md)
+- [1227. 飞机座位分配概率](./problems/1227.airplane-seat-assignment-probability.md) 👍
 - [1261. 在受污染的二叉树中查找元素](./problems/1261.find-elements-in-a-contaminated-binary-tree.md)
 - [1262. 可被三整除的最大和](./problems/1262.greatest-sum-divisible-by-three.md)
 - [1297. 子串的最大出现次数](./problems/1297.maximum-number-of-occurrences-of-a-substring.md)
