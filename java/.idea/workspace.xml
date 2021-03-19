@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a23ca927-4120-4cd1-bb42-cb0db4f9527b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/stack/calculate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go_leetcode/ stack/calculate.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go_leetcode/ stack/calculate.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go_leetcode/binary_tree/constructMaximumBinaryTree.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go_leetcode/binary_tree/serialize.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go_leetcode/png/微信图片_20210318155114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/rserialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sql/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Sql/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +47,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunManager" selected="Application.getBestGoldMining">
@@ -99,13 +103,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,6 +135,7 @@
       <updated>1615270912992</updated>
       <workItem from="1615270914257" duration="13348000" />
       <workItem from="1615434497952" duration="3049000" />
+      <workItem from="1616130216550" duration="196000" />
     </task>
     <servers />
   </component>
