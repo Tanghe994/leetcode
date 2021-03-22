@@ -8,10 +8,10 @@ package binary_tree
  */
 
 func constructMaximumBinaryTree(nums []int) *TreeNode {
-	return build(nums, 0, len(nums))
+	return build01(nums, 0, len(nums))
 }
 
-func build(nums []int, left, right int) *TreeNode {
+func build01(nums []int, left, right int) *TreeNode {
 	if nums == nil {
 		return nil
 	}
@@ -31,8 +31,8 @@ func build(nums []int, left, right int) *TreeNode {
 
 	root := new(TreeNode)
 	root.Val = Max
-	root.Left = build(nums, left, index-1)
-	root.Right = build(nums, index+1, right)
+	root.Left = build01(nums, left, index-1)
+	root.Right = build01(nums, index+1, right)
 
 	return root
 

@@ -56,3 +56,84 @@ int count(TreeNode root) {
 
 -   [实践_翻转二叉树](./invertTree.go)
 
+---
+### 二叉树的四种遍历框架
+
+-   前序遍历
+
+```go
+    func traverse(root TreeNode){
+    	if root == nil{
+    		return 
+        }   
+        
+        res := []int{}
+        
+        res = append(res,root.val)
+        
+        traverse(root.left)
+        traverse(root.right)
+    }
+
+```
+
+-   后序遍历
+
+```go
+    func traverse(root TreeNode){
+        if root == nil{
+          return
+        }
+        
+        res := []int{}
+        
+        traverse(root.left)
+        traverse(root.right)
+
+        res = append(res,root.val)
+    }
+```
+
+-   中序遍历
+
+```go
+    func traverse(root TreeNode){
+        if root == nil{
+            return
+        }
+        
+        res := []int{}
+        
+        traverse(root.left)
+		res = append(res,root.val)
+        traverse(root.right)
+    }    
+```
+
+-   层次遍历
+
+```go
+    func traverse(root TreeNode){
+        if root == nil{
+            return
+        }
+        
+        /*需要解除队列的形式进行访问，q*/
+        q = append(q,root)
+        for q !=nil {
+            cur := q[0]
+            
+            /*输出*/
+            
+            if cur.left!=nil{
+            	q = append(q,cur.left)
+            }
+            
+            if cur.right!=nil{
+            	q= append(q,cur.right)
+            }
+            q = q[1:]
+            
+        }
+    }    
+```
