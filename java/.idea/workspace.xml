@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a23ca927-4120-4cd1-bb42-cb0db4f9527b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../go_leetcode/binary_tree/constructMaximumBinaryTree.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_leetcode/binary_tree/serialize.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_leetcode/png/微信图片_20210318155114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/rserialize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sql/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Sql/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go_leetcode/binary_tree/Constructor_N_tree.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go_leetcode/binary_tree/countNodes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go_leetcode/binary_tree/lowestCommonAncestor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/other/IterartorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/stack/calculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/string/removeDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/other/IterartorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/tree/rserialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/tree/rserialize.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +53,20 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.getBestGoldMining">
+  <component name="RunManager" selected="Application.IterartorTest">
+    <configuration name="IterartorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.other.IterartorTest" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="getBestGoldMining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.Dynamic_programming.getBestGoldMining" />
       <module name="leetcode" />
@@ -103,21 +119,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IterartorTest" />
         <item itemvalue="Application.getBestGoldMining" />
         <item itemvalue="Application.getMaxSortDistance" />
         <item itemvalue="Application.stack_min" />
@@ -136,6 +151,7 @@
       <workItem from="1615270914257" duration="13348000" />
       <workItem from="1615434497952" duration="3049000" />
       <workItem from="1616130216550" duration="196000" />
+      <workItem from="1616987705074" duration="1429000" />
     </task>
     <servers />
   </component>
