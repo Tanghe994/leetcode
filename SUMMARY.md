@@ -9,6 +9,8 @@
   - [树专题](thinkings/tree.md)
   - [堆专题（上）](./thinkings/heap.md) 🆕
   - [堆专题（下）](./thinkings/heap-2.md) 🆕
+  - [二分专题（上）](./thinkings/binary-search-1.md) 🆕
+  - [二分专题（下）](./thinkings/binary-search-2.md) 🆕
   - [二叉树的遍历](thinkings/binary-tree-traversal.md)
   - [动态规划](thinkings/dynamic-programming.md)
   - [哈夫曼编码和游程编码](thinkings/run-length-encode-and-huffman-encode.md)
@@ -98,6 +100,11 @@
 
   - [面试题 17.09. 第 k 个数](./problems/get-kth-magic-number-lcci.md)
   - [面试题 17.23. 最大黑方阵](./problems/max-black-square-lcci.md)🆕
+  - [Increasing Digits](./problems/Increasing-Digits.md) 👍 🆕
+  - [Longest Contiguously Strictly Increasing Sublist After Deletion](./problems/Longest-Contiguously-Strictly-Increasing-Sublist-After-Deletion.md) 👍 🆕
+  - [Consecutive Wins](./problems/consecutive-wins.md) 🆕
+  - [Number of Substrings with Single Character Difference](./problems/Number-of-Substrings-with-Single-Character-Difference.md) 🆕
+  - [Bus Fare](./problems/Bus-Fare.md) 🆕 👍
   - [0002. 两数相加](./problems/2.add-two-numbers.md)
   - [0003. 无重复字符的最长子串](./problems/3.longest-substring-without-repeating-characters.md)
   - [0005. 最长回文子串](./problems/5.longest-palindromic-substring.md)
@@ -177,6 +184,7 @@
   - [0424. 替换后的最长重复字符](./problems/424.longest-repeating-character-replacement.md) 🆕
   - [0445. 两数相加 II](./problems/445.add-two-numbers-ii.md)
   - [0454. 四数相加 II](./problems/454.4-sum-ii.md)
+  - [0456. 132 模式](./problems/456.132-pattern.md) 🆕
   - [0464. 我能赢么](./problems/464.can-i-win.md)
   - [0494. 目标和](./problems/494.target-sum.md)
   - [0516. 最长回文子序列](./problems/516.longest-palindromic-subsequence.md)
@@ -197,6 +205,7 @@
   - [0801. 使序列递增的最小交换次数](./problems/801.minimum-swaps-to-make-sequences-increasing.md) 🆕
   - [0816. 模糊坐标](./problems/816.ambiguous-coordinates.md)
   - [0820. 单词的压缩编码](./problems/820.short-encoding-of-words.md)
+  - [0873. 最长的斐波那契子序列的长度](./problems/873.length-of-longest-fibonacci-subsequence.md) 🆕
   - [0875. 爱吃香蕉的珂珂](./problems/875.koko-eating-bananas.md)
   - [0877. 石子游戏](./problems/877.stone-game.md)
   - [0886. 可能的二分法](./problems/886.possible-bipartition.md)
@@ -242,6 +251,7 @@
 - [第六章 - 高频考题（困难）](collections/hard.md)
 
   - [LCP 20. 快速公交](./problems/lcp20.meChtZ.md) 🆕
+  - [LCP 21. 追逐游戏](./problems/lcp21.Za25hA.md) 🆕 👍
   - [Number Stream to Intervals](./problems/Number-Stream-to-Intervals.md) 🆕
   - [Triple-Inversion](./problems/Triple-Inversion.md) 91
   - [Kth-Pair-Distance](./problems/Kth-Pair-Distance.md) 91
