@@ -105,6 +105,7 @@
   - [Consecutive Wins](./problems/consecutive-wins.md) 🆕
   - [Number of Substrings with Single Character Difference](./problems/Number-of-Substrings-with-Single-Character-Difference.md) 🆕
   - [Bus Fare](./problems/Bus-Fare.md) 🆕 👍
+  - [Minimum Dropping Path Sum](./problems/Minimum-Dropping-Path-Sum.md) 🆕
   - [0002. 两数相加](./problems/2.add-two-numbers.md)
   - [0003. 无重复字符的最长子串](./problems/3.longest-substring-without-repeating-characters.md)
   - [0005. 最长回文子串](./problems/5.longest-palindromic-substring.md)
@@ -256,6 +257,7 @@
   - [Triple-Inversion](./problems/Triple-Inversion.md) 91
   - [Kth-Pair-Distance](./problems/Kth-Pair-Distance.md) 91
   - [Minimum-Light-Radius](./problems/Minimum-Light-Radius.md) 91
+  - [Largest Equivalent Set of Pairs](./problems/Largest-Equivalent-Set-of-Pairs.md) 🆕 👍
   - [0004. 寻找两个正序数组的中位数](./problems/4.median-of-two-sorted-arrays.md)
   - [0023. 合并 K 个升序链表](./problems/23.merge-k-sorted-lists.md)
   - [0025. K 个一组翻转链表](./problems/25.reverse-nodes-in-k-groups.md)
