@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a23ca927-4120-4cd1-bb42-cb0db4f9527b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../go_leetcode/binary_tree/Constructor_N_tree.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_leetcode/binary_tree/countNodes.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_leetcode/binary_tree/lowestCommonAncestor.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/other/IterartorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/stack/calculate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/string/removeDuplicates.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/other/IterartorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/tree/rserialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/tree/rserialize.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +143,7 @@
       <workItem from="1615270914257" duration="13348000" />
       <workItem from="1615434497952" duration="3049000" />
       <workItem from="1616130216550" duration="196000" />
-      <workItem from="1616987705074" duration="1429000" />
+      <workItem from="1616987705074" duration="1448000" />
     </task>
     <servers />
   </component>

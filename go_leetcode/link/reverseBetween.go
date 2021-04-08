@@ -7,10 +7,6 @@ package link
  *  @Create:2021/3/17 上午9:34
  */
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
 
 var successor *ListNode
 
